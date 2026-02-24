@@ -86,7 +86,7 @@ Data normalization understanding
 │
 └── README.md
 
-**👨‍💻 Author
+**👨‍💻 Author : 
 Abshar Rafique
 Full Stack Developer 
 MySQL | Java | Problem Solving | Database Design**
