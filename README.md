@@ -24,6 +24,7 @@ Check if the product is a palindrome.
 Track and return the maximum palindrome found.
 
 **Final Sorted Output**
+
 Largest Palindrome: 906609
 Factors: 993 x 913
 
