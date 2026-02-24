@@ -1,0 +1,5 @@
+Company	total_amount_spent
+
+ABC PTE LTD	               17.75
+Terra Xchange Pte Ltd	    3.90
+Synthesis Corp Ltd	        0.95
