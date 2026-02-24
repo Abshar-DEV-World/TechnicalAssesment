@@ -42,11 +42,16 @@ Compare by length (descending)
 If equal → compare lexicographically
 
 **Final Sorted Output**
+
 pomegranate
+
 avocado
+
 pumpkin
 apple
+
 mango
+
 pear
 
 Key Concepts
