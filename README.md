@@ -1,6 +1,7 @@
 **Technical Assessment Solutions**
 
 **Tools & IDE Used**
+
 Java programs: Developed and tested using **IntelliJ IDEA**
 SQL queries: Tested using online SQL **fiddle** editor
 
