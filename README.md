@@ -91,9 +91,11 @@ Aggregate functions (SUM)
 Data normalization understanding
 
 🛠️ Project Structure
+
 ├── src/
 │   ├── LargestPalindrome.java
 │   ├── LengthAlphaSorter.java
+
 │
 ├── sql/
 │   └── total_amount_spent.sql
