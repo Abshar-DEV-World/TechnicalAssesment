@@ -59,6 +59,7 @@ Group by company
 Use SUM aggregation
 
 **SQL Query**
+
 SELECT 
     po.Company,
     SUM(pd.Quantity * pr.Cost) AS Total_Amount_Spent
