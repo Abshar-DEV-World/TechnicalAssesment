@@ -6,6 +6,7 @@ Custom Sorting Logic
 SQL Data Aggregation & Joins
 
 All solutions are implemented with clean structure, readable code, and proper documentation.
+
 **Problem 1**: A palindrome is a sequence that reads the same backward as forward. Write a function to find the biggest palindrome by multiplying two 3-digit numbers
 **Approach**
 Iterate from 999 down to 100.
@@ -21,6 +22,7 @@ Key Concepts
 Nested loops optimization
 String reversal / numeric palindrome check
 Time complexity considerations
+
 
 **Problem 2**: Sort the array below by the longest word first, then by alphabetical order:
 (“apple”, “mango”, “pomegranate”, “pear”, “avocado”, “pumpkin”)
