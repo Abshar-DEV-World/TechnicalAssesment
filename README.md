@@ -1,4 +1,5 @@
 **Technical Assessment Solutions**
+
 This repository contains my solutions for the technical assessment tasks, covering:
 Algorithmic Problem Solving
 Custom Sorting Logic
