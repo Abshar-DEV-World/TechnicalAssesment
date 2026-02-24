@@ -18,6 +18,7 @@ All solutions are implemented with clean structure, readable code, and proper do
 
 
 **Approach**
+
 Iterate from 999 down to 100.
 Multiply each pair.
 Check if the product is a palindrome.
@@ -38,6 +39,7 @@ Time complexity considerations
 (“apple”, “mango”, “pomegranate”, “pear”, “avocado”, “pumpkin”)
 
 **Approach**
+
 Use custom comparator:
 Compare by length (descending)
 If equal → compare lexicographically
