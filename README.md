@@ -14,6 +14,9 @@ SQL Data Aggregation & Joins
 All solutions are implemented with clean structure, readable code, and proper documentation.
 
 **Problem 1**: A palindrome is a sequence that reads the same backward as forward. Write a function to find the biggest palindrome by multiplying two 3-digit numbers
+
+
+
 **Approach**
 Iterate from 999 down to 100.
 Multiply each pair.
