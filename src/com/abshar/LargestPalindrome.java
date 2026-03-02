@@ -5,6 +5,8 @@ public class LargestPalindrome {
     public static void main(String[] args) {
         // Find the largest palindrome for 3-digit numbers
         int result = findLargestPalindrome(100, 999);
+        
+        // If no palindrome found (invalid range or no valid product)
         if (result == 0) {
             System.out.println("No palindrome found in given range.");
         }
@@ -26,8 +28,9 @@ public class LargestPalindrome {
         for (int i = max; i >= min; i--) {
             for (int j = i; j >= min; j--) { // Avoid duplicate checks
                 int product = i * j;
-
-                if (product <= largestPalindrome) break; // Optimization
+                
+                // Optimization to reduce unnecessary iterations
+                if (product <= largestPalindrome) break; 
 
                 if (isPalindrome(product)) {
                     largestPalindrome = product;
@@ -61,6 +64,7 @@ public class LargestPalindrome {
 
     private static boolean isPalindrome(int number) {
         String str = Integer.toString(number);
+        // Reverse using StringBuilder
         return str.equals(new StringBuilder(str).reverse().toString());
     }
 }
